@@ -1,0 +1,6 @@
+{
+  "name": "YT Video Insight",
+  "description": "Extract title, description, and a comprehensive summary/transcript from any YouTube video link using Gemini's advanced grounding capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
